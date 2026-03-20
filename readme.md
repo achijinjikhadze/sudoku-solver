@@ -20,9 +20,12 @@ Where:
 **Example Input:**  
 
 
-3
-1 1 5
+3 - n
+
+1 1 5 - x,y,t
+
 1 2 3
+
 2 1 6
 
 
